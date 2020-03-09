@@ -1,5 +1,5 @@
 extern crate nalgebra;
 
-pub mod quadtree;
 pub mod collidable;
+pub mod quadtree;
 mod util;
