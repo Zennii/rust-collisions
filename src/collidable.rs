@@ -108,11 +108,11 @@ impl Collidable {
             width: r * 2.,
             height: r * 2.,
 
-            nvert: nvert,
-            vertx: vertx,
-            verty: verty,
-            normx: normx,
-            normy: normy,
+            nvert,
+            vertx,
+            verty,
+            normx,
+            normy,
         }
     }
 
@@ -142,11 +142,11 @@ impl Collidable {
             width,
             height,
 
-            nvert: nvert,
-            vertx: vertx,
-            verty: verty,
-            normx: normx,
-            normy: normy,
+            nvert,
+            vertx,
+            verty,
+            normx,
+            normy,
         }
     }
 
@@ -175,11 +175,11 @@ impl Collidable {
             width: w,
             height: h,
 
-            nvert: nvert,
-            vertx: vertx,
-            verty: verty,
-            normx: normx,
-            normy: normy,
+            nvert,
+            vertx,
+            verty,
+            normx,
+            normy,
         }
     }
 
